@@ -81,6 +81,6 @@ agent.run(room_temperatures)
 # OUTPUT:
 <img width="802" height="139" alt="Screenshot 2025-10-22 093433" src="https://github.com/user-attachments/assets/1f562f53-0bd7-4c79-9955-f5b0a241a227" />
 
-# Reesult:
+# Result:
 
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
